@@ -1,6 +1,11 @@
 # Gerenciador de salar de reuniões com Java e Angular
 Desenvolvi uma API com Spring Boot para gerenciar salas de reunião, utilizei o Spring Data para persistência de dados e o banco in-memory H2 e o Front End que irá consumir essa API será uma SPA escrita em Angular.
 
+## Pré-requisitos
+- Java.
+- Node.JS.
+- IDE.
+
 ## Conteúdo Extra
 - Desenvolver SPAs: uma aplicação web que roda em uma única página e atualiza só o que você desejar. 
 - O que são Lifecycle Hooks? Isso é realizado pelo Angular criando o componente, renderizando, criando e renderizando seus filhos, verificando modificações nas propriedades e no DOM, realizando alterações, destruindo e removendo o DOM. 
@@ -43,7 +48,7 @@ Teste unitário:
 Teste end-to-end:
 >ng e2e 
 
-Verificar versão do NodeJS:
+Verificar versão do Node.JS:
 >node -v
 
 Verificar versão do NPM:
