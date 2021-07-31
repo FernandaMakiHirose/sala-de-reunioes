@@ -36,7 +36,7 @@ Abra no seu navegador para ver o room criado:
 Para gerar um novo componente:
 >ng generate component component-name
 
-Build do projeto (armazenado dentro da pasta `dist/`):
+Build do projeto - Armazenado dentro da pasta `dist/`:
 >ng build  
 
 Produção do build:
