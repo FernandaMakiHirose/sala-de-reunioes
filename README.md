@@ -1,10 +1,13 @@
 # Gerenciador de salar de reuniões com Java e Angular
 Desenvolvi uma API com Spring Boot para gerenciar salas de reunião, utilizei o Spring Data para persistência de dados e o banco in-memory H2 e o Front End que irá consumir essa API será uma SPA escrita em Angular.
 
-## Pré-requisitos
+## Requisitos
 - Java.
 - Node.JS.
 - IDE.
+
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 
 ## Conteúdo Extra
 - Desenvolver SPAs: uma aplicação web que roda em uma única página e atualiza só o que você desejar. 
@@ -62,8 +65,3 @@ Verificar a versão do Angular:
 
 Criar projeto:
 >ng new client-room
-
-## Sobre a Autora
-Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Fernanda_Maki_Hirose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)](https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)  [![Gmail Badge](https://img.shields.io/badge/-femahi2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:femahi2020@gmail.com)](mailto:femahi2020@gmail.com)
